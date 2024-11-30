@@ -1,4 +1,5 @@
 displayName = Smarter Planting
 author = bumperdo09
-version = 0.1
+version = 0.1.1
 side = client
+homepage = https://github.com/Bumperdo09/Smarter-Planting
