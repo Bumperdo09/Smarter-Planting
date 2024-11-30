@@ -1,0 +1,1 @@
+Makes the smart cursor only target the planter box that matches the seed type when planting seeds. Manual seed placement is unaffected.

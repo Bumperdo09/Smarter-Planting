@@ -1,0 +1,4 @@
+displayName = Smarter Planting
+author = bumperdo09
+version = 0.1
+side = client
