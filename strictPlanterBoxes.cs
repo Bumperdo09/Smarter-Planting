@@ -136,9 +136,6 @@ namespace strictPlanterBoxes
                 c.EmitDelegate((Tile tile) => tile.TileFrameY / 18 == 6);// If style matches the planter box, jump 
                 c.EmitAnd();
                 c.EmitLdcI4(1); //this is jank but I dont want to edit the jump
-
-                MonoModHooks.DumpIL(ModContent.GetInstance<strictPlanterBoxes>(), il);
-
             }
             catch (Exception e)
             {
